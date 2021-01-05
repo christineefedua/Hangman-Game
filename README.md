@@ -1,0 +1,2 @@
+# Hangman-Game
+Using Python to create a simple word game, Hangman  Below is a very detailed explanation of the code I used to create this game, in order for others reading this to understand as well as a point of reference to revert back to as my Python skills improve, we import a predetermined list of upper-case characters in the dictionary. I randomly select a word from a list of words then continuously ask for user input until you win. Then, I incorporate lives so you can't get unlimited guesses
